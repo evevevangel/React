@@ -1,0 +1,35 @@
+{
+  "node": true,
+  "asi": true,
+  "esnext": true,
+  "boss": true,
+  "curly": false,
+  "devel": true,
+  "eqnull": true,
+  "expr": true,
+  "funcscope": true,
+  "globalstrict": true,
+  "loopfunc": true,
+  "newcap": false,
+  "noempty": true,
+  "nonstandard": true,
+  "sub": true,
+  "undef": true,
+  "mocha": true,
+  "unused": true,
+  "multistr":true,
+  "globals": {
+    "localStorage": false,
+    "document": false,
+    "window": false,
+    "self": false,
+    "$": false,
+    "process": false,
+    "module": false,
+    "exports": false,
+    "console": false,
+    "it": false,
+    "describe": false
+  }
+}
+
